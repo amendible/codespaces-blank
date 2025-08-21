@@ -4,6 +4,7 @@ import java.util.Scanner;
 class Venta {
     int id;
     String producto;
+    
     int cantidad;
     double precioUnitario;
 
